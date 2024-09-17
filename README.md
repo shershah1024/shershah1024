@@ -1,4 +1,4 @@
-I wrote my first line of code after the release of ChatGPT. I believe that I belong to a new group of coders/builders who are experts in their respective fields and are 
+I believe that I belong to a new group of coders/builders who are experts in their respective fields and are 
 using AI to build applications to supercharge themselves and the community
 
 I build practical products. My 'can-use-AI-for-this' radar is always on, and I am really quick to build something that I can personally use. 
