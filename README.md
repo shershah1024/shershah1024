@@ -5,7 +5,7 @@ I build practical products. My 'can-use-AI-for-this' radar is always on, and I a
 
 Here are some of my products
 
-1. https://lunathesmart.thesmartlanguage.com/
+1. https://lunathesmart.com/
 2. https://albert.thesmartlanguage.com/
 3. https://ziggi.rocks/
 4. https://compare-ai-models.vercel.app/
