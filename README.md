@@ -3,6 +3,8 @@ using AI to build applications to supercharge themselves and the community
 
 I build practical products. My 'can-use-AI-for-this' radar is always on, and I am really quick to build something that I can personally use. 
 
+Specialist in building voice AI agents and WhatsApp AI agents. 
+
 2 time AI hackathon winner. Check out the winning projects here
 
 https://builder-club.beehiiv.com/p/hackathon-spotlight-luna-ai
