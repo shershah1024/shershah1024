@@ -15,11 +15,10 @@ Here are some of my products
 
 1. https://lunathesmart.com/
 2. https://www.healthezee.com/
-3. https://albert.thesmartlanguage.com/
-4. https://ziggi.rocks/
-5. https://compare-ai-models.vercel.app/
-6. https://zinth.vercel.app/
-7. https://video-chat-uploader-shahir1.replit.app/
-8. https://best-version.vercel.app/
+3. https://english.thesmartlanguage.com/
+4. https://compare-ai-models.vercel.app/
+5. https://zinth.vercel.app/
+6. https://video-chat-uploader-shahir1.replit.app/
+7. https://best-version.vercel.app/
 
 
