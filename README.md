@@ -11,14 +11,5 @@ https://builder-club.beehiiv.com/p/hackathon-spotlight-luna-ai
 
 https://x.com/TslShahir/status/1870259180663353621
 
-Here are some of my products
 
-1. https://lunathesmart.com/
-2. https://www.healthezee.com/
-3. https://english.thesmartlanguage.com/
-4. https://compare-ai-models.vercel.app/
-5. https://zinth.vercel.app/
-6. https://video-chat-uploader-shahir1.replit.app/
-7. https://best-version.vercel.app/
-
-
+Currently, building the AI operating system for language institutes and teachers @ https://thesmartlanguage.com/
