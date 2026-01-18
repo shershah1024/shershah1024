@@ -11,7 +11,7 @@ Former language education entrepreneur turned Voice AI engineer. Taught myself t
 🎙️ **Voice AI Systems** - Real-time STT → LLM → TTS pipelines, WebRTC (Pion/Go), LiveKit, Pipecat, OpenAI/Gemini Realtime APIs, Twilio telephony
 
 🚀 **Notable Work:**
-- Integrated Gemini Realtime with LiveKit **before LiveKit's official implementation**
+- Integrated Gemini Realtime with LiveKit **before LiveKit's SDK integration**
 - Built WhatsApp Voice AI Bridge in pure Go - connecting WhatsApp Business Calls API to AI backends (no tutorials existed, figured it out through raw experimentation)
 - Voice agent on ESP32 Korvo-S3
 
