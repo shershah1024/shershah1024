@@ -1,15 +1,49 @@
-I believe that I belong to a new group of coders/builders who are experts in their respective fields and are 
-using AI to build applications to supercharge themselves and the community
+# Shahir Abdul
 
-I build practical products. My 'can-use-AI-for-this' radar is always on, and I am really quick to build something that I can personally use. 
+**Voice AI Engineer | Full-Stack Builder | EdTech Entrepreneur**
 
-Specialist in building voice AI agents and WhatsApp AI agents. 
+Former language education entrepreneur turned Voice AI engineer. Taught myself to code post-ChatGPT (Feb 2023), now have **14,000+ commits in 2024 and 2025** across 50+ repositories. AI-native engineer. **2x International AI Hackathon Winner.**
 
-2 time AI hackathon winner. Check out the winning projects here
+---
 
-https://builder-club.beehiiv.com/p/hackathon-spotlight-luna-ai
+### What I Build
 
-https://x.com/TslShahir/status/1870259180663353621
+🎙️ **Voice AI Systems** - Real-time STT → LLM → TTS pipelines, WebRTC (Pion/Go), LiveKit, Pipecat, OpenAI/Gemini Realtime APIs, Twilio telephony
 
+🚀 **Notable Work:**
+- Integrated Gemini Realtime with LiveKit **before LiveKit's official implementation**
+- Built WhatsApp Voice AI Bridge in pure Go - connecting WhatsApp Business Calls API to AI backends (no tutorials existed, figured it out through raw experimentation)
+- Voice agent on ESP32 Korvo-S3
 
-Currently, building the AI operating system for language institutes and teachers @ https://thesmartlanguage.com/
+🛠️ **Claude Code Power User** - Built custom skills, MCP servers. Check out [Claude Accountability Partner](https://github.com/shershah1024/claude-accountability-partner)
+
+---
+
+### Products
+
+- **[Luna](https://lunathesmart.com)** - AI voice tutor for language learning (IELTS, Cambridge, DELF, Goethe)
+- **[Healthezee](https://healthezee.com)** - Health coaching app
+- **[ByeBye Flashcards](https://byebyeflashcards.com)** - Gamified vocabulary learning
+- **TeachMotion** - Automated educational video/Reels generator
+
+---
+
+### Hackathon Wins
+
+🏆 [Luna AI - Builder Club Spotlight](https://builder-club.beehiiv.com/p/hackathon-spotlight-luna-ai)
+
+🏆 [Second Win](https://x.com/TslShahir/status/1870259180663353621)
+
+---
+
+### Background
+
+- **2018-2023:** Founded Maitrise Language Essentials Pvt Ltd
+- **2023-Present:** Co-founded [The Smart Language](https://thesmartlanguage.com)
+- Speak **6 languages** (English, Spanish, German, Malayalam, Hindi, Arabic)
+
+---
+
+**Currently:** Building AI-powered language learning tools and exploring voice AI opportunities
+
+📍 Hyderabad, India | [@TslShahir](https://twitter.com/TslShahir)
