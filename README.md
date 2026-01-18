@@ -36,14 +36,4 @@ Former language education entrepreneur turned Voice AI engineer. Taught myself t
 
 ---
 
-### Background
-
-- **2018-2023:** Founded Maitrise Language Essentials Pvt Ltd
-- **2023-Present:** Co-founded [The Smart Language](https://thesmartlanguage.com)
-- Speak **6 languages** (English, Spanish, German, Malayalam, Hindi, Arabic)
-
----
-
-**Currently:** Building AI-powered language learning tools and exploring voice AI opportunities
-
 📍 Hyderabad, India | [@TslShahir](https://twitter.com/TslShahir)
