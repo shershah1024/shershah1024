@@ -26,7 +26,7 @@ realtime APIs, Twilio telephony. Built a WhatsApp Voice AI bridge in pure Go.
 ### Products
 
 - **[The Smart Language](https://thesmartlanguage.com)** — AI platform for language institutes
-- **[Haku](https://haku.sh)** — local MCP server + native macOS agent terminal
+- **[Haku](https://haku.sh)** — a local-only MCP server that cuts AI agents' token usage ~85% with on-device filtering
 - **[SuperTutora](https://supertutora.com)** — a hyper-personal language tutor
 
 ---
