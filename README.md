@@ -25,9 +25,9 @@ realtime APIs, Twilio telephony. Built a WhatsApp Voice AI bridge in pure Go.
 
 ### Products
 
-- **[Luna](https://lunathesmart.com)** — AI voice tutor for language exams (IELTS, Cambridge, DELF, Goethe)
-- **The Smart Language** — AI platform for language institutes
-- Haku — local MCP server + native macOS agent terminal
+- **[The Smart Language](https://thesmartlanguage.com)** — AI platform for language institutes
+- **[Haku](https://haku.sh)** — local MCP server + native macOS agent terminal
+- **[SuperTutora](https://supertutora.com)** — adaptive language learning platform with voice
 
 ---
 
