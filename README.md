@@ -1,39 +1,34 @@
-# Shahir Abdul
+# Shahir MA
 
-**Voice AI Engineer | Full-Stack Builder | EdTech Entrepreneur**
+**On-Device AI & Systems Engineer · Apple Silicon Inference · Founder, The Smart Language**
 
-Former language education entrepreneur turned Voice AI engineer. Taught myself to code post-ChatGPT (Feb 2023), now have **14,000+ commits in 2024 and 2025** across 50+ repositories. AI-native engineer. **2x International AI Hackathon Winner.**
+I build production apps and the inference runtimes underneath them — local LLMs, VLMs,
+and speech models running entirely on-device on Apple Silicon (Neural Engine + Metal).
+20K+ commits across 50+ repos in three years. 2× international AI hackathon winner.
 
 ---
 
-### What I Build
+### What I build
 
-🎙️ **Voice AI Systems** - Real-time STT → LLM → TTS pipelines, WebRTC (Pion/Go), LiveKit, Pipecat, OpenAI/Gemini Realtime APIs, Twilio telephony
+🧠 **On-device inference** — custom hybrid ANE/GPU runtime; LLMs/VLMs/STT/embeddings
+that run 100% on the Neural Engine or Metal, at 1–2 W, no cloud in the hot path.
 
-🚀 **Notable Work:**
-- Integrated Gemini Realtime with LiveKit **before LiveKit's SDK integration**
-- Built WhatsApp Voice AI Bridge in pure Go - connecting WhatsApp Business Calls API to AI backends (no tutorials existed, figured it out through raw experimentation)
-- Voice agent on ESP32 Korvo-S3
+⚡ **Model engineering** — 8-bit & ternary (BitNet b1.58) quantization, LoRA adapters,
+CoreML conversion, per-op ANE residency tuning. *e.g.* LFM2-VL-450M running fully on the ANE.
 
-🛠️ **Claude Code Power User** - Built custom skills, MCP servers. Check out [Claude Accountability Partner](https://github.com/shershah1024/claude-accountability-partner)
+🎙️ **Voice AI** — real-time STT → LLM → TTS pipelines; WebRTC (Pion/Go), LiveKit,
+realtime APIs, Twilio telephony. Built a WhatsApp Voice AI bridge in pure Go.
+
+🛠️ **Stack** — Rust · Swift · Metal · CoreML · MLX · Python · Next.js · FastAPI · Supabase
 
 ---
 
 ### Products
 
-- **[Luna](https://lunathesmart.com)** - AI voice tutor for language learning (IELTS, Cambridge, DELF, Goethe)
-- **[Healthezee](https://healthezee.com)** - Health coaching app
-- **[ByeBye Flashcards](https://byebyeflashcards.com)** - Gamified vocabulary learning
-- **TeachMotion** - Automated educational video/Reels generator
+- **[Luna](https://lunathesmart.com)** — AI voice tutor for language exams (IELTS, Cambridge, DELF, Goethe)
+- **The Smart Language** — AI platform for language institutes
+- Haku — local MCP server + native macOS agent terminal
 
 ---
 
-### Hackathon Wins
-
-🏆 [Luna AI - Builder Club Spotlight](https://builder-club.beehiiv.com/p/hackathon-spotlight-luna-ai)
-
-🏆 [Second Win](https://x.com/TslShahir/status/1870259180663353621)
-
----
-
-📍 Hyderabad, India | [@TslShahir](https://twitter.com/TslShahir)
+📍 Hyderabad, India · [shahir.thesmartlanguage.com](https://shahir.thesmartlanguage.com) · [@TslShahir](https://twitter.com/TslShahir)
