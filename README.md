@@ -1,4 +1,4 @@
-# Shahir MA
+# Shahir M A
 
 **On-Device AI & Systems Engineer · Apple Silicon Inference · Founder, The Smart Language**
 
